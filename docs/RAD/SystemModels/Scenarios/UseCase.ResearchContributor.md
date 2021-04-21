@@ -8,7 +8,7 @@
 
 #### [Scenarios](./)
 
-##### UseCaseResearchWikiAdmin
+##### UseCaseResearchContributor
 
 ***Participating Actors***
 
@@ -17,7 +17,7 @@ Communicates with Will.
 
 ***Entry Condition***
 
-1. Jeff needs to research a Wikipedia admin that is suspected of working for China.
+1. Jeff needs to research a Wikipedia contributor that is suspected of working for China.
 
 ***Flow of Events***
 
@@ -36,6 +36,6 @@ Communicates with Will.
 
 ## License
 
-Copyright © 2020 [Kabuki Starship](https://kabukistarship.com).
+Copyright © 2020-1 [Kabuki Starship](https://kabukistarship.com).
 
 This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at <https://mozilla.org/MPL/2.0/>.

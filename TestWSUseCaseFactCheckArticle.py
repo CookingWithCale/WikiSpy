@@ -4,7 +4,7 @@
 # @link    https://github.com/AStarStartup/WikiSpy.git
 # @file    /TestWS.py
 # @author  Cale McCollough <https://CookingWithCale.github.io>
-# @license Copyright 2020 (C) Kabuki Starship <kabukistarship.com>. This Source 
+# @license Copyright 2020-1 (C) Kabuki Starship <kabukistarship.com>. This Source 
 # Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a 
 # copy of the MPL was not distributed with this file, you can obtain one at 
 # <https://mozilla.org/MPL/2.0/>.
@@ -14,11 +14,11 @@ from TestWSLoadTestUsers import *
 from TestWSLoadDummyWikipedia import *
 
 # Use case scenario: FactCheckArticle
-# @see `~/docs/RAD/SystemModels/Scenarios/FactCheckArticle.md`
+# @see `~/docs/RAD/SystemModels/Scenarios/UseCase.FactCheckArticle.md`
 class TestWSUseCaseFactCheckArticle(CRMission):
 
   def __init__(self, Crabs, Query, Command = None, Cursor = 0):
-    CRMission.__init__(self, Crabs, "Test.UseCase.FactCheckArticle", 
+    CRMission.__init__(self, Crabs, 'Test.UseCase.FactCheckArticle', 
                        Command, Cursor)
     X = TestWSLoadTestUsers(Crabs)
     X = TestWSLoadDummyWikipedia(Crabs)
@@ -26,8 +26,7 @@ class TestWSUseCaseFactCheckArticle(CRMission):
     String = ''
     Crabs.PrintStats(String, 'Search results')
     print (String)
-    assert (Crabs.Top.Key() != Query),'! Article name was not ' + Query '. <'
+    assert (Crabs.Top.Key() == Query),'! Article name was not ' + Query + '. <'
     
-
 if __name__ == '__main__':
   App = TestWSUseCaseFactCheckArticle(CRAbs ())

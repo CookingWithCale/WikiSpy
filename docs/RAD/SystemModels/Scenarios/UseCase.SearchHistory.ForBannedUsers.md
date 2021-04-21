@@ -8,7 +8,7 @@
 
 #### [Scenarios](./)
 
-##### Use Case: UseCaseName
+##### Use Case: SearchHistoryForBannedUsers
 
 ***Participating Actors***
 
@@ -21,7 +21,13 @@ Communicates with ActorB.
 
 ***Flow of Events***
 
-1. What are the flow of events?
+**1.** ActorA wants to search through a pages history for banned users to check for the reasons the user was banned so ActorA goes to the SearchHistoryScreen.
+
+**2.** TheSystem loads the SearchHistoryScreen.
+
+**3.** ActorA inputs the address of the article to search through it's history.
+
+**4.** TheSystem searches through the history for users who are banned and creates a collection of search results of history banned user contributions.
 
 ***Exit condition***
 

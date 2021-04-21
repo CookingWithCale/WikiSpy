@@ -4,7 +4,7 @@
 # @link    https://github.com/AStarStartup/WikiSpy.git
 # @file    /CRNode.py
 # @author  Cale McCollough <https://CookingWithCale.github.io>
-# @license Copyright 2020 (C) Kabuki Starship <kabukistarship.com>. This Source 
+# @license Copyright 2020-1 (C) Kabuki Starship <kabukistarship.com>. This Source 
 # Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a 
 # copy of the MPL was not distributed with this file, you can obtain one at 
 # <https://mozilla.org/MPL/2.0/>.
@@ -16,8 +16,8 @@ from Stringf import *
 # A Crabs tree node with a unique Node ID (NID).
 # Example
 # ```Script2
-# ><.Intake CaptainKabuki Name='Cale McCollough' DoB='4/1/2020'
-# ><.DoB.Set '3/31/2020' <
+# ><.Intake CaptainKabuki Name='Cale McCollough' DoB='4/1/2020-1'
+# ><.DoB.Set '3/31/2020-1' <
 # ><.Foo 1.234
 # ><.Print
 # ><.PrintStats
