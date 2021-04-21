@@ -4015,9 +4015,9 @@
 			]
 		}
 	],
-	"documentation": "# License\n\nCopyright 2020 © [Kabuki Starship](https://kabukistarship.com).\n\nThis Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at <https://mozilla.org/MPL/2.0/>.\n",
+	"documentation": "# License\n\nCopyright 2020-1© [Kabuki Starship](https://kabukistarship.com).\n\nThis Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at <https://mozilla.org/MPL/2.0/>.\n",
 	"author": "Cale McCollough",
 	"company": "Kabuki Starship",
-	"copyright": "Copyright 2020 © Kabuki Starship.",
+	"copyright": "Copyright 2020-1© Kabuki Starship.",
 	"version": "0.x"
 }
