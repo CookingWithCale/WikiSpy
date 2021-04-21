@@ -1,6 +1,8 @@
 # Contributing Guide
 
-**1.** Ensure the bug was not already reported by by reading the [Issues](https://github.com/abc_org/xyz_project/issues).
+## Submitting Bugs
+
+**1.** Ensure the bug was not already reported by by reading the [Issues](https://github.com/WikiSpy/WikiSpy/issues).
 
 **2.** Open `/docs/BUG_REPORT_TEMPLATE.md` and copy it's contents to the clipboard.
 
@@ -15,8 +17,8 @@
 **1.** Clone the repo and create a branch for the IssueNuber:
 
 ```Console
-git clone https://github.com/abc_org/xyz_project.git
-cd Script2™
+git clone https://github.com/WikiSpy/WikiSpy.git
+cd WikiSpy
 git checkout -b Issue123
 ```
 
@@ -32,11 +34,11 @@ git push origin Issue123
 
 **4.** Get others to inspect your changes and merge the branch to the master.
 
-**5.** Merge the branch, complete another ticket, and delete the old branch.
+**5.** Commit the changes into a branch named after the issue ticket you're mission solves.
 
 ```Console
-git checkout -b Issue125
+git branch -m Issue123 Issue125
 git add --all
-git commit "module_id:Fix feature ABC. #125"
-git branch -d Issue123
+git commit "ModuleID.Fix feature ABC. #125"
+git push origin Issue125
 ```
