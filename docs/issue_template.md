@@ -1,16 +1,15 @@
-# IssueType
-
 ## Problem
 
-
+The Problem I'm addressing is...
 
 ## Solution
 
-
+The Solution I'm proposing to the Problem is...
 
 ### Files Affected
 
-1. 
+1. `~/RelativeURI1`
+2. `~/RelativeURI2`
 
 ## Hierarchy
 
@@ -18,6 +17,4 @@
 
 ## License
 
-Copyright © 2020-1 [Kabuki Starship](https://kabukistarship.com).
-
-This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at <https://mozilla.org/MPL/2.0/>.
+Copyright © 2021 [Kabuki Starship](https://kabukistarship.com); all rights reserved.
