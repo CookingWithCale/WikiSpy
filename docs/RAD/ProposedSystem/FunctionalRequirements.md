@@ -4,13 +4,12 @@
 
 ### Functional Requirements
 
-1. WikiSpy shall shall detect political bias.
+1. WikiSpy shall detect political bias.
 2. WikiSpy shall detect irregular author and admin behavior.
 3. WikiSpy shall detect country of origin.
 4. WikiSpy shall prevent Doxing.
 5. WikiSpy shall be transparent.
 6. WikiSpy shall detect propaganda.
-7. WikiSpy shall be under the control of the United States of America; Fuck yeah!
 8. WikiSpy shall compare all Wikipedia-like websites.
 
 ## License

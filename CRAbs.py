@@ -29,11 +29,13 @@ class CRAbs(CRRoom):
     self.DeviceCount = 0              #< The CRDevice count.
     self.RoomCount = 1                #< The CRRoom count.
     self.MissionCount = 0             #< The Mission count.
-    self.DepthCounter = 0             #< The number pushes since the of the Command.
+    self.DepthCounter = 0             #< The number pushes since the of the 
+                                      #< Command.
     self.ModeStackRestore = False     #< Mode for Commands that start with a '.'
     self.Top = self                   #< The currently selected node.
     self.Stack = []                   #< The stack of CRNodes.
-    self.Cursor = 0                   #< The cursor location in the current Crabs expression.
+    self.Cursor = 0                   #< The cursor location in the current 
+                                      #< Crabs expression.
     self.State = self.StateMonitoring #< The Process state.
     self.Clipboard = None             #< Copy & paste clipboard.
     CRRoom.__init__(self, self, "Crabs", Command)

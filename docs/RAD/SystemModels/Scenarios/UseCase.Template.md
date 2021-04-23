@@ -12,8 +12,8 @@
 
 ***Participating Actors***
 
-Initiated by ActorA.
-Communicates with ActorB.
+Initiated by Star.
+Communicates with Dirp.
 
 ***Entry Condition***
 

@@ -1,14 +1,12 @@
 # WikiSpy
 
-A tool to monitor Wikipedia for tampering, misinformation, political bias, and criminal activity. The Vision of WikiSpy is to make Wikipedia non-biased and factually correct. The project status is pre-alpha and non-functional. WikiSpy is easiest described as a mix of Snopes and NewsGuard that tells you if a Wikipedia article is biased or factually incorrect and who tampered with the article what, when, where, and why. The best place to start is to read the Quickstart guide.
+![WikiSpy Social media preview image.](https://raw.githubusercontent.com/WikiSpy/WikiSpy/master/Art/WikiSpyArtSocialMedia.png)
 
-## #AllRamWikiChallenge
+WikiSpy is a tool to monitor Wikipedia for tampering, misinformation, political bias, and criminal activity. The Vision of WikiSpy is to make Wikipedia non-biased and factually correct. The project status is pre-alpha and non-functional. WikiSpy is easiest described as a mix of Snopes and NewsGuard that tells you if a Wikipedia article is biased or factually incorrect and who tampered with the article what, when, where, and why.
 
-The #AllRamWikiChallenge is a #MXNet #AI #ML toolkit challenge to fit all of Wikipedia into as small of contiguous RAM as possible. The challenge getting reworded. More information about the challenge will be released soon.
+## Contributing
 
-## How to Contribute
-
-We are a new project without any working code and we're seeking contributors to help us analyze requirements of Use case scenarios using Markdown and StarUML, and to create unit tests from the Use case scenarios.
+Please see the [Contributing Guide](https://github.com/WikiSpy/WikiSpy/blob/master/docs/Contributing.md) for instructions.
 
 ## License
 

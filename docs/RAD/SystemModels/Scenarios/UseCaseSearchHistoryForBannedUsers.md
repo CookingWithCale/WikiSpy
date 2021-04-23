@@ -8,12 +8,12 @@
 
 #### [Scenarios](./)
 
-##### Use Case: SearchHistoryForBannedUsers
+##### UseCaseHistorySearchThroughRevisionsForKeyword
 
 ***Participating Actors***
 
-Initiated by ActorA.
-Communicates with ActorB.
+Initiated by Star.
+Communicates with Dirp.
 
 ***Entry Condition***
 
@@ -21,15 +21,17 @@ Communicates with ActorB.
 
 ***Flow of Events***
 
-**1.** ActorA wants to search through a pages history for banned users to check for the reasons the user was banned so ActorA goes to the SearchHistoryScreen.
+**1.** Star wants to search through a pages history for banned users to check for the reasons the user was banned so Star goes to the SearchHistoryScreen.
 
 **2.** TheSystem loads the SearchHistoryScreen.
 
-**3.** ActorA inputs the address of the article to search through it's history.
+**3.** Star inputs the address of the article to search through it's history.
 
 **4.** TheSystem searches through the history for users who are banned and creates a collection of search results of history banned user contributions.
 
 ***Exit condition***
+
+The scenario exits when...
 
 ***Quantity Requirements***
 

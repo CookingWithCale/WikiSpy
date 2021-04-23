@@ -12,18 +12,18 @@
 
 ***Participating Actors***
 
-Initiated by Jeff.
+Initiated by Star.
 Communicates with Will.
 
 ***Entry Condition***
 
-1. Jeff needs to research a Wikipedia contributor that is suspected of working for China.
+1. Star needs to research a Wikipedia contributor that is suspected of working for China.
 
 ***Flow of Events***
 
-1. Jeff copies and pastes the Wikipedia admin username into WikiSpy.
+1. Star copies and pastes the Wikipedia admin username into WikiSpy.
   A. WikiSpy checks if the article has been tampered with and loads the Article Widget.
-2. Jeff types in "foo baby".
+2. Star types in "foo baby".
   B. WikiSpy responds with "Ooooo yeah baby!"
 
 ***Exit condition***

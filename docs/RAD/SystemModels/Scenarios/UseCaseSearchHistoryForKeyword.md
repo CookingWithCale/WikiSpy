@@ -12,8 +12,8 @@
 
 ***Participating Actors***
 
-Initiated by ActorA.
-Communicates with ActorB.
+Initiated by Star.
+Communicates with Dirp.
 
 ***Entry Condition***
 
@@ -21,11 +21,11 @@ Communicates with ActorB.
 
 ***Flow of Events***
 
-**1.** ActorA wants to search through a pages history for all contributions with the word 'China' to find mentions of China that have been scrubbed out.
+**1.** Star wants to search through a pages history for all contributions with the word 'China' to find mentions of China that have been scrubbed out.
 
 **2.** TheSystem loads the SearchHistoryScreen.
 
-**3.** ActorA inputs the word 'China' into the search input.
+**3.** Star inputs the word 'China' into the search input.
 
 **4.** TheSystem searches for all contributions with the word "China" in them creates a collection of search results of history banned user contributions.
 
