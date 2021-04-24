@@ -47,6 +47,7 @@ _site/
 Include/
 Lib/
 Scripts/
+env/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

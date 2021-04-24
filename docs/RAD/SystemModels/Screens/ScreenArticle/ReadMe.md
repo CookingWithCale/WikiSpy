@@ -1,12 +1,13 @@
-# [Requirements Analysis Document](../)
-
-## [System Models](./)
-
-### [Screens](../)
-
-#### ScreenTemplate
+#### ScreenArticle
 
 ![Mockup of this screen.](ScreenArticleMockup.png)
+
+***Navigation***
+
+* [Requirements Analysis Document](../../../)
+   *  [System Models](../../)
+      * [Screens](../)
+         * ScreenArticle
 
 ## License
 

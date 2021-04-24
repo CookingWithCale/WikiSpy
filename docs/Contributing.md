@@ -1,6 +1,16 @@
-# Contributing Guide
+## Contributing Guide
 
-## Submitting Bugs
+### Help Wanted
+
+* Reverse contributor psychological profiling.
+* Political bias detector - we're building a tool to determine a Wiki contributor's political bias by scanning their Wiki contributions and profile.
+* MXNet, Stack AI - we're going to use deep learning for the Political bias detector with some A* stack AI for business model profiling with business model canvas.
+* Website design - we're building the GUI with Flask in Python 3.
+* Cyber war prevention - we're identifying cyber war threats on Wikipedia and mitigating them.
+* Crowd source fact checkers - we need an arm of fact checkers to curate facts.
+* Funding - we need to pay for programmers, dedicated servers and cloud GPU time, and essentials for a non-profit organization.
+
+### Submitting Bugs
 
 **1.** Ensure the bug was not already reported by by reading the [Issues](https://github.com/WikiSpy/WikiSpy/issues).
 
@@ -8,13 +18,13 @@
 
 **3.** Create an issue, paste the template into the Issue body and fill it out.
 
-## Feature Requests
+### Feature Requests
 
 **1.** Same as the instructions for submitting a bug report except with using `/docs/FEATURE_REQUEST.md`.
 
-### Completing Issues
+#### Completing Issues
 
-**1.** Clone the repo and create a branch for the IssueNuber:
+**1.** Clone the repo and create a branch for the IssueNumber:
 
 ```Console
 git clone https://github.com/WikiSpy/WikiSpy.git
@@ -42,3 +52,11 @@ git add --all
 git commit "ModuleID.Fix feature ABC. #125"
 git push origin Issue125
 ```
+
+#### Software Engineering Documentation
+
+The software engineering documentation for the project can be found in the [Requirements Analysis Document](./RAD) and [Software Design Document](./SDD). If it's not clear from the documentation what work there is to do, please submit Issue tickets to Request for Clarification.
+
+## License
+
+Copyright © 2021 [Kabuki Starship](https://kabukistarship.com); all rights reserved.
