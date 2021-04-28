@@ -40,7 +40,7 @@ git commit -m "module_id.Add feature XYZ. #123"
 git push origin Issue123
 ```
 
-**3.** Create a Pull Requesting using the `/docs/PULL_REQUEST_TEMPLATE.md`
+**3.** Create a Pull Requesting using the `/docs/pull_request_template.md`
 
 **4.** Get others to inspect your changes and merge the branch to the master.
 

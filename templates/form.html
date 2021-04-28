@@ -1,0 +1,11 @@
+{% extends 'default.html' %}
+{% block title %}The Form{% endblock %}
+<% block content %>
+{{ super() }}
+<h1>Please fill out this form to give me your first born child and retirement account.</h1>
+<form method="POST" action="/theform">
+  <input type="text" name="name" />
+  <input type="text" name="location" />
+  <input type="submit" value="submit" />
+</form>
+{% endblock %}
