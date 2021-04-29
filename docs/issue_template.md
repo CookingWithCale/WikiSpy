@@ -6,14 +6,19 @@ The Problem I'm addressing is...
 
 The Solution I'm proposing to the Problem is...
 
+
 ### Files Affected
 
 1. `~/RelativeURI1`
 2. `~/RelativeURI2`
 
-## Hierarchy
+### Sessions
 
 * CookingWithCale/CookingWithCale#1
+
+### Hierarchy
+
+* This
 
 ## License
 

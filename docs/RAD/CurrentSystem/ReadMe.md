@@ -1,8 +1,6 @@
-## [Introduction](./)
-
 ### Current System
 
-The current system is Wikipedia, the Chinese Communist Party's version of Wikipedia, other existing Wikipedia-like sites, TensorFlow, and Serial [Chinese Room, Interprocess, and Telemetry (SCRIPT) Script (Script2)](https://github.com/KabukiStarship/Script2), [Kabuki Toolkit](https://github.com/KabukiStarship/KabukiToolkit), and [iGeek](https://github.com/KabukiStarship/iGeek).
+The current system is Wikipedia, the Chinese Communist Party's version of Wikipedia, other existing Wikipedia-like sites, TensorFlow, and [Serial Chinese Room, Interprocess, and Telemetry (SCRIPT) Script (Script2)](https://github.com/KabukiStarship/Script2), [Kabuki Toolkit](https://github.com/KabukiStarship/KabukiToolkit), and [iGeek](https://github.com/KabukiStarship/iGeek).
 
 ***Navigation***
 

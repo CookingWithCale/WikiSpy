@@ -1,25 +1,28 @@
-<!--- Provide a general summary of your changes in the Title above -->
+## Problem
 
-## Description
+The Problem I'm addressing is...
 
-<!--- Describe your changes in detail -->
+## Solution
 
-## Related Issue
+The Solution I'm proposing to the Problem is...
 
-<!--- This project only accepts pull requests related to open issues -->
-<!--- If suggesting a new feature or change, please discuss it in an issue first -->
-<!--- If fixing a bug, there should be an issue describing it with steps to reproduce -->
-<!--- Please link to the issue here: -->
+### Test Overview
 
-## Motivation and Context
+The Solution was tested by...
 
-<!--- Why is this change required? What problem does it solve? -->
-<!--- If it fixes an open issue, please link to the issue here. -->
+### Files Affected
 
-## How Has This Been Tested?
+1. `~/RelativeURI1`
+2. `~/RelativeURI2`
 
-<!--- Please describe in detail how you tested your changes. -->
-<!--- Include details of your testing environment, and the tests you ran to -->
-<!--- see how your change affects other areas of the code, etc. -->
+### Sessions
 
-## Screenshots (if appropriate):
+* CookingWithCale/CookingWithCale#1
+
+### Hierarchy
+
+* This
+
+## License
+
+Copyright © 2021 [Kabuki Starship](https://kabukistarship.com); all rights reserved.

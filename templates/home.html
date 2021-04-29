@@ -1,0 +1,15 @@
+
+<h1>WikiSpy</h1>
+<h2>Users</h2>
+{% for item in results %}
+<h3>ID: {{ item.ID }} Name: {{ item.name }} Location: {{ item.location }}</h2>
+{% endfor %}
+
+<h3>Current</h3>
+<h4>ID: {{ name }}</h4>
+{% if display %}
+{% else %}
+<h2>Please log in.</h2>
+{% endif %}
+
+<img src="{{ url_for('static', filename='WikiSpyIcon.png') }}" />
